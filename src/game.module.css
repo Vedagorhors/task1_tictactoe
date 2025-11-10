@@ -1,0 +1,19 @@
+.game {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 400px;
+	margin: 60px auto;
+	padding: 20px;
+	background: gray;
+	text-align: center;
+}
+
+.restartButton {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.restartButton:hover {
+	background-color: #bbb;
+}
